@@ -3,6 +3,9 @@ uuid = "6828d65a-07f4-472f-b28b-41bf2a163c8d"
 authors = ["Maeve Andersen <maeve.andersen@colorado.edu> and contributors"]
 version = "0.1.0"
 
+[deps]
+Symbolics = "0c5d862f-8b57-4792-8d23-62f2024744c7"
+
 [compat]
 julia = "1"
 
